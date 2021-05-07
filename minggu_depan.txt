@@ -1,3 +1,5 @@
 Membuat File baru tugas minggu depan
 
-tugas metode penilitan
+
+- e commerse ( dengan laravel )
+
